@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá! Eu sou Leomark
 
-<!--
-**LeomarkCandidoFPS/LeomarkcandidoFPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim 
+Sou estudante de **Ciência da Computação**, interessado em tecnologia, programação e desenvolvimento de projetos.
+Estou em busca de aprender novas tecnologias, melhorar minhas habilidades e transformar ideias em projetos reais.
 
-Here are some ideas to get you started:
+## O que eu busco
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Evoluir cada vez mais na programação
+- Aprender novas tecnologias
+- Desenvolver projetos práticos
+- Melhorar minhas habilidades em **HTML, CSS e C**
+- Criar projetos para meu portfólio
+
+## Skills
+
+- HTML
+- CSS
+- C
+- Python
+- Git & GitHub
+- Pacote Office
+- Excel Avançado
+- Desenvolvimento de interfaces
+
+## Projeto em Destaque
+
+Meu projeto atual de agência de viagens, desenvolvido com foco em uma experiência moderna, visual e responsiva.
+
+O projeto apresenta destinos, pacotes de viagem e uma experiência de reserva para o usuário.
+
+🔗 Projeto: https://angel-voyage-jamdupbno-leopcfuction-4272s-projects.vercel.app/
+
+##  Atualmente estudando
+**Ciência da Computação | Desenvolvimento Web | Programação | UI/UX | Inteligência Artificial | Algoritimo Computacional | **
