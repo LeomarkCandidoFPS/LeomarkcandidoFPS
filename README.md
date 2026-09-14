@@ -32,4 +32,4 @@ O projeto apresenta destinos, pacotes de viagem e uma experiência de reserva pa
 🔗 Projeto: https://angel-voyage-jamdupbno-leopcfuction-4272s-projects.vercel.app/
 
 ##  Atualmente estudando
-**Ciência da Computação | Desenvolvimento Web | Programação | UI/UX | Inteligência Artificial | Algoritimo Computacional | **
+**Ciência da Computação | Desenvolvimento Web | Programação | UI/UX | Inteligência Artificial | Algoritimo Computacional |**
